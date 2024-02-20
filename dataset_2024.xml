@@ -1,0 +1,3355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:pubblicazione xmlns:ns2="legge190_1_0">
+    <metadata>
+        <titolo>Pubblicazione legge 190</titolo>
+        <abstract>Anno rif. 2023</abstract>
+        <dataPubblicazioneDataset>2024-02-20</dataPubblicazioneDataset>
+        <entePubblicatore></entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2024-02-20</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2023</annoRiferimento>
+        <urlFile></urlFile>
+        <licenza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">IODL</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>Z8B36ECAB9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO DI UN MACERATORE PER LA NUOVA DIALISI DI BORIDGHERA CIG Z8B36ECAB9 - NOLEGGIO DI UN MACERATORE PER LA NUOVA DIALISI DI BORIDGHERA CIG Z8B36ECAB9</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01897730659</codiceFiscale>
+                    <ragioneSociale>C.A.M. HOSPITAL SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>12579.78</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-10</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8F3E01516</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO MATERIALE SISTEMA ITINERIS CENTRALE STERILIZZAZIONE SANREMO - ACQUISTO MATERIALE SISTEMA ITINERIS CENTRALE STERILIZZAZIONE SANREMO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01578731000</codiceFiscale>
+                    <ragioneSociale>PStudio Italia</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>860.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+                <dataUltimazione>2024-01-04</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>860.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2F3DDF586</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura materiale vario - acquisti su piazza anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01737790087</codiceFiscale>
+                    <ragioneSociale>TABYA CENTER SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4800.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z623D935C3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento fornitura anticalcare lava-padelle - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05503160011</codiceFiscale>
+                    <ragioneSociale>ARJOHUNTLEIGH S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3768.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z123D933CF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura buste di ghiaccio sintetico</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03681410365</codiceFiscale>
+                    <ragioneSociale>BMEDICA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>960.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-04-01</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2C3D9A8A1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento fornitura sale batteriostatico in pastiglie - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00667690044</codiceFiscale>
+                    <ragioneSociale>LA CASALINDA s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3395.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5B3D8DAA7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio lavaggio autovetture aziendali anno 2024 ambito Bordighera/Ventimiglia</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00817550080</codiceFiscale>
+                    <ragioneSociale>M.P.M. S.A.S. DI CARINGELLA MATTIA, VERONICA &amp; C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A02988FA0E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>SISTEMA DI DIAGNOSTICA MOLECOLARE RAPIDA - SISTEMA EAZYPLEX</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01383850995</codiceFiscale>
+                    <ragioneSociale>Arrow Diagnostics </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>63944.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z403D8A450</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio lavaggio autovetture aziendali anno 2024 ambito Imperiese</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>MRSFNC57E22E290Z</codiceFiscale>
+                    <ragioneSociale>MARASCO FRANCO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZED3D87AB3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura timbri - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06308240966</codiceFiscale>
+                    <ragioneSociale>LA BOTTEGA DEL TIMBRO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z303D8A2F1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Interventi carro attrezzi - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01728550086</codiceFiscale>
+                    <ragioneSociale>AUTORIPARAZIONI RANALDO di Ranaldo Angelo e C. snc</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1C3D9CD7F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio lavaggio autovetture aziendali anno 2024 ambito Sanremese</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>VLSFRZ72L02I138Z</codiceFiscale>
+                    <ragioneSociale>STAZIONE DI SERVIZIO AGIP DI VALASTRO FABRIZIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC53D9BC4C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzioni erogatori acqua installati presso varie strutture aziendali - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01291980082</codiceFiscale>
+                    <ragioneSociale>TECNOBEN SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9590.16</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z813DA878E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Abbonamento Farmadati anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01169830336</codiceFiscale>
+                    <ragioneSociale>FARMADATI ITALIA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2058.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z173DB5747</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di pulizia delle grondaie varie sedi ASL1 - Anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01385820087</codiceFiscale>
+                    <ragioneSociale>Jobel  soc. coop. soc. </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6700.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3B3DEFE8B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00247260086</codiceFiscaleProp>
+                <denominazione>Provincia di Imperia</denominazione>
+            </strutturaProponente>
+            <oggetto>Bacino di vita transfrontaliero brainstorming territoriale. Organizzazione incontro del 10 gennaio 2024.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>PDRNDA69P49F205F</codiceFiscale>
+                    <ragioneSociale>DIANA CATERING DI PEDRAZZI NADIA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>360.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-10</dataInizio>
+                <dataUltimazione>2024-01-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>360.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A035189FCE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>GUANTI CHIRURGICI STERILI IN POLIISOPRENE LOTTO 4</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00899910244</codiceFiscale>
+                    <ragioneSociale>Berica Hygiene</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>286200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z373D9DF8F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Noleggio Fotocopiatrici varie - Anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01621700085</codiceFiscale>
+                    <ragioneSociale>INSIDE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>24960.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB73DB816C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura materiale edile - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00785120080</codiceFiscale>
+                    <ragioneSociale>EDILFORNITURE SANREMO S.A.S. DI CAVAGNERO &amp; C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z753DB8D0C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura materiale per pittura - anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CLNMRZ66D27I138C</codiceFiscale>
+                    <ragioneSociale>LA SCICH DI COLANTONIO MAURIZIO.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z263E032A2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA N30 CONFEZIONI DI STANDARD M 10 FLU/RSV/SARS COV 2 DA DESTINARE ALLA S.S.D. MICROBIOLOGIA - FORNITURA N 30 CONFEZIONI DI STANDARD M10 FLU/RSV/SARS COV 2 DA DESTINARE ALLAS.S.D. MICROBIOLOGIA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01489790996</codiceFiscale>
+                    <ragioneSociale>Relab</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8850.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCB3D8F004</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Recepimento gara regionale  capsule deglutibili  lotto 1 Ditta Medtronic - Recepimento gara regionale  capsule deglutibili  lotto 1 Ditta Medtronic</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09238800156</codiceFiscale>
+                    <ragioneSociale>MEDTRONIC ITALIA S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5720.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCA3D8F0BA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Recepimento gara regionale  capsule deglutibili  lotto 2 Ditta Medtronic - Recepimento gara regionale  capsule deglutibili  lotto 2 Ditta Medtronic</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09238800156</codiceFiscale>
+                    <ragioneSociale>MEDTRONIC ITALIA S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>900.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8B3DDA46E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO DEAMBULATORI E MATERIALE VARIO FISIATRIA IMPERIA - ACQUISTO DEAMBULATORI E MATERIALE VARIO FISIATRIA IMPERIA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06111530637</codiceFiscale>
+                    <ragioneSociale>AIESI HOSPIATAL SERVICE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1134.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A041D72572</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>92054820094</codiceFiscaleProp>
+                <denominazione>C.I.R.A. srl</denominazione>
+            </strutturaProponente>
+            <oggetto>impianto a osmosi inversa - pozzo Piano (Dego) - impianto a osmosi inversa - pozzo Piano (Dego)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01036040218</codiceFiscale>
+                    <ragioneSociale>PROMINENT ITALIANA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>69600.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-11</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z243DB2EA9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00577500101</codiceFiscaleProp>
+                <denominazione>Istituto Giannina Gaslini</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di n. 1 piastra di cottura elettrica occorrente all'U.O.C. Cardiochirurgia.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02600840108</codiceFiscale>
+                    <ragioneSociale>DITTA ENZO MATTEUCCI S.A.S. DI ENZO MATTEUCCI E C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>187.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z533DE5E55</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02994540108</codiceFiscaleProp>
+                <denominazione>Liguria Digitale SpA</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto per ASL4 Chiavari - Ordine F2/2024 - Oggetto fornitura, supporto e manutenzione licenze caselle posta Zimbra - Acquisto per ASL4 Chiavari - Ordine F2/2024 - Oggetto fornitura, supporto e manutenzione licenze caselle posta Zimbra</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01606500187</codiceFiscale>
+                    <ragioneSociale>B.L.S. Consulting S.r.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11246.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-04</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z363C7122B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01821110093</codiceFiscaleProp>
+                <denominazione>SANT'ANTONIO SERVIZI S.R.L.</denominazione>
+            </strutturaProponente>
+            <oggetto>ISCRIZIONE DI UNA UNITA DI PERSONALE AL CONVEGNO IN MATERIA DI ACCREDITAMENTO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01860510997</codiceFiscale>
+                    <ragioneSociale>STUDIO OMNIA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>100.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDD3C70D2D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01821110093</codiceFiscaleProp>
+                <denominazione>SANT'ANTONIO SERVIZI S.R.L.</denominazione>
+            </strutturaProponente>
+            <oggetto>ISCRIZIONE CORSI FORMATIVI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04598700401</codiceFiscale>
+                    <ragioneSociale>Compliance Legale Servizi Srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>450.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0E3C70763</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01821110093</codiceFiscaleProp>
+                <denominazione>SANT'ANTONIO SERVIZI S.R.L.</denominazione>
+            </strutturaProponente>
+            <oggetto>ISCRIZIONE A CORSI FORMATIVI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02649530280</codiceFiscale>
+                    <ragioneSociale>ZUCCHETTI HEALTHCARE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>192.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>192.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z033D252C4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01821110093</codiceFiscaleProp>
+                <denominazione>SANT'ANTONIO SERVIZI S.R.L.</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI CONSULENZA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01479280099</codiceFiscale>
+                    <ragioneSociale>OPERE SOCIALI SERVIZI - S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z633D972D2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura panni monouso in microfibra per pavimenti e panni monouso TNT per superfici sala operatoria - Anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01786391209</codiceFiscale>
+                    <ragioneSociale>CEVA MULTILINE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4778.25</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4B3D7ECFD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura materiale vario di cancelleria - acquisti su piazza anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01765650088</codiceFiscale>
+                    <ragioneSociale>Trecentoesessanta snc</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z583D7E7AB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura elettrodomestici -acquisti su piazza anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01737790087</codiceFiscale>
+                    <ragioneSociale>TABYA CENTER SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6B3DFA46F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di manutenzione straordinaria aree verdi Ospedale di Bordighera</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01385820087</codiceFiscale>
+                    <ragioneSociale>Jobel  soc. coop. soc. </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB13DAB6CF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di rotoli pretagliati in TNT per la sala operatoria</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01785940089</codiceFiscale>
+                    <ragioneSociale>GRUPPO COAPI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9600.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-04</dataInizio>
+                <dataUltimazione>2024-04-03</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7A3DFA48E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di sovrscarpe in TNT non sterile</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02790240101</codiceFiscale>
+                    <ragioneSociale>Benefis</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>792.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A044AC193D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DEL SISTEMA AUTOMATIZZATO IN CHEMILUMINESCENZA PER INDAGINI VIROLOGICHE, VALIDATO PER LO SCREENING DELLE UNITA' DI SANGUE. PROSECUZIONE CONTRATTUALE</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00076670595</codiceFiscale>
+                    <ragioneSociale>ABBOTT s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>104860.66</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A046114569</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA IN SERVICE DI UNA PIATTAFORMA TECNOLOGICA COMBINATA PER INDAGINI DI VARIANTI GENICHE - CIG IN VARIANTE</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02483840423</codiceFiscale>
+                    <ragioneSociale>DIATECH PHARMACOGENETICS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>101804.10</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-10</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7B3D9D574</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di camici per visitatori in TNT non sterile</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>12244190158</codiceFiscale>
+                    <ragioneSociale>Medline International Italy Unipersonale</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19520.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-10</dataInizio>
+                <dataUltimazione>2024-04-09</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A041B6C9F9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00592160105</codiceFiscaleProp>
+                <denominazione>Comune di Chiavari</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZI DI GESTIONE LOGISTICA E PULIZIA DEI BAGNI PUBBLICI PRESENTI SUL TERRITORIO COMUNALE E DELL'ASCENSORE DI PIAZZALE SAN FRANCESCO PER GLI ANNI 2024-2025-2026</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01351020993</codiceFiscale>
+                    <ragioneSociale>COOPERATIVA PELLICANO VERDE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>111251.24</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-10</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z113E01476</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTI LAVABI CHIRURGICI PER REPARTO DI RIANIMAZIONE OSPEDALE DI SANREMO - ACQUISTI LAVABI CHIRURGICI PER REPARTO DI RIANIMAZIONE OSPEDALE DI SANREMO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09109990961</codiceFiscale>
+                    <ragioneSociale>ADEXTE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8450.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-17</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5E3E013A5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO POLTRONE MODELLO PISA PER COT BORDIGHERA - ACQUISTO POLTRONE MODELLO PISA PER COT BORDIGHERA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01078930094</codiceFiscale>
+                    <ragioneSociale>OK UFFICIO ARREDAMENTO s.r.l. </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5172.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z983C37E5A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00754150100</codiceFiscaleProp>
+                <denominazione>UniversitÃ  degli Studi di Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>servizio di sostituzione pali di pino e castagno presso gbh - servizio di sostituzione pali di pino e castagno presso gbh</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00688610088</codiceFiscale>
+                    <ragioneSociale>CENTROLEGNO S.N.C. FRANCO GIORGIO E FIGLI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2983.61</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z993DE54C4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00449500107</codiceFiscaleProp>
+                <denominazione>Comune di Arenzano</denominazione>
+            </strutturaProponente>
+            <oggetto>ASSUNZIONE DI RESPONSABILITA' PER LA GESTIONE DELLA PRESENZA DI AMIANTO NEGLI IMMOBILI COMUNALI BIENNIO 2024-2025 - ASSUNZIONE DI RESPONSABILITA' PER LA GESTIONE DELLA PRESENZA DI AMIANTO NEGLI IMMOBILI COMUNALI BIENNIO 2024-2025</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03122130101</codiceFiscale>
+                    <ragioneSociale>TEKNO - AMBIENTE DI DURANTE SEBASTIANO E ROBERTO MORA S.N.C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1980.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD73DE52D9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80007350103</codiceFiscaleProp>
+                <denominazione>CittÃ  Metropolitana di Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>telepass - telepass</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09771701001</codiceFiscale>
+                    <ragioneSociale>TELEPASS SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>20000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z113DFA4B0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di frigorifero farmaci per reagenti e/o simili</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>10346990152</codiceFiscale>
+                    <ragioneSociale>SINTAK SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1640.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+                <dataUltimazione>2024-04-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z353DFA496</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di ritiro e trasporto biancheria sporca</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00347450082</codiceFiscale>
+                    <ragioneSociale>COSEVA PLURISERVIZI SCRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>27560.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3F3DEECFE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Gara a procedura aperta, tramite l'utilizzo della piattaforma di intermediazione telematica denominata "Sin Tel" per l'affidamento della fornitura di "Sistemi di Radioprotezione" occorrenti alle AA.SS.LL., EE.OO. e I.R.C.C.S. della Regione Liguria </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00615530672</codiceFiscale>
+                    <ragioneSociale>SERVIZI OSPEDALIERI SPA </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>30744.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+                <dataUltimazione>2025-11-12</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z953DD7810</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ANNUALE DI RESOURCE PRE LOAD IN BUSTE - FORNITURA ANNUALE DI RESOURCE PRE LOAD IN BUSTE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02401440157</codiceFiscale>
+                    <ragioneSociale>NESTLE' ITALIANA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1425.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE13DCA237</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO URGENTE DI NORMOSANG IN FLACONI - ACQUISTO URGENTE DI NORMOSANG IN FLACONI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00421210485</codiceFiscale>
+                    <ragioneSociale>BOEHRINGER INGELHEIM ITALIA S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4875.54</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1C3DEEF53</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Gara a procedura aperta, tramite l'utilizzo della piattaforma di intermediazione telematica denominata "Sin Tel" per l'affidamento della fornitura di "Sistemi di Radioprotezione" occorrenti alle AA.SS.LL., EE.OO. e I.R.C.C.S. della Regione Liguria </oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01122350380</codiceFiscale>
+                    <ragioneSociale>SAGO MEDICA s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>20989.80</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+                <dataUltimazione>2025-11-12</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z333DEF09F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Gara a procedura aperta, tramite l'utilizzo della piattaforma di intermediazione telematica denominata "Sin Tel" per l'affidamento della fornitura di "Sistemi di Radioprotezione" occorrenti alle AA.SS.LL., EE.OO. e I.R.C.C.S. della Regione Liguria </oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01122350380</codiceFiscale>
+                    <ragioneSociale>SAGO MEDICA s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3190.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+                <dataUltimazione>2025-11-12</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8F3DEF1E3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Gara a procedura aperta, tramite l'utilizzo della piattaforma di intermediazione telematica denominata "Sin Tel" per l'affidamento della fornitura di "Sistemi di Radioprotezione" occorrenti alle AA.SS.LL., EE.OO. e I.R.C.C.S. della Regione Liguria </oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01122350380</codiceFiscale>
+                    <ragioneSociale>SAGO MEDICA s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9453.01</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+                <dataUltimazione>2025-11-12</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z233DFA4A3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di carta A4</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>11582010150</codiceFiscale>
+                    <ragioneSociale>LYRECO ITALIA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>39989.40</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-17</dataInizio>
+                <dataUltimazione>2024-04-16</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z733DC8D64</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00123420119</codiceFiscaleProp>
+                <denominazione>Azienda Regionale Territoriale per l'Edilizia della Spezia</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento diretto - Incarico per prestazioni di lavoro autonomo di Coordinamento per la Sicurezza in fase di esecuzione ai sensi delL'art. 92 del D. Lgs. 81/2008 e s.m.i. relativamente ai Lavori di manutenzione ordinaria e straordinaria in allogg</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>ZNTSMN68R45F205O</codiceFiscale>
+                    <ragioneSociale>ZANOTTO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1665.78</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-11</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z243CDB369</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura triennale di Alcooli. S.C. Anatomia Patologica. - Fornitura triennale di Alcooli. S.C. Anatomia Patologica.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02405040284</codiceFiscale>
+                    <ragioneSociale>KALTEK s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>20805.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+                <dataUltimazione>2026-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A043A8B88D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00488430109</codiceFiscaleProp>
+                <denominazione>Azienda Regionale Territoriale per l'Edilizia di Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>Accordo Quadro per interventi urgenti e non programmabilidi sostitizione serramenti esterni in edifii di ERP di proprietÃ  Comune di Gnova</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03717030104</codiceFiscale>
+                    <ragioneSociale>LASER SERRAMENTI srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02584820613</codiceFiscale>
+                    <ragioneSociale>ALFRA VETRI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>145000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-19</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04B36A786</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00962520110</codiceFiscaleProp>
+                <denominazione>AZIENDA SOCIOSANITARIA LIGURE 5</denominazione>
+            </strutturaProponente>
+            <oggetto>PNRR Missione 6 - 1.2.2.3 COT - device: incarico a Liguria Digitale per la redazione del capitolato tecnico per la fornitura dei device per il telemonitoraggio domiciliare - PNRR Missione 6 - 1.2.2.3 COT - device: incarico a Liguria Digitale per la</oggetto>
+            <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02994540108</codiceFiscale>
+                    <ragioneSociale>LIGURIA DIGITALE SpA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4574.98</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-19</dataInizio>
+                <dataUltimazione>2024-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4574.98</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDC3D9750A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO FORNITURA CASSETTE ISTOLOGICHE PER INCLUSIONE- S.C. ANATOMIA PATOLOGICA - AFFIDAMENTO FORNITURA CASSETTE ISTOLOGICHE PER INCLUSIONE- S.C. ANATOMIA PATOLOGICA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01169790993</codiceFiscale>
+                    <ragioneSociale>VA.NI.CA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4986.31</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+                <dataUltimazione>2025-07-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1A3DFCB64</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00211160114</codiceFiscaleProp>
+                <denominazione>Comune della Spezia</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO INCARICO DIREZIONE
+LAVORI (AD ECCEZIONE DI DL STRUTTURALE) PROGETTO LAVORI REALIZ. IMPIANTO
+ILLUMINAZIONE CAMPO SPORTIVO MONTAGNA - AFFIDAMENTO INCARICO DIREZIONE LAVORI (AD ECCEZIONE DI DL STRUTTURALE) PROGETTO LAVORI REALIZ. IMPIANTO </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>FCOGLC68P06E463B</codiceFiscale>
+                    <ragioneSociale>FOCE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>25410.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC13DB62C8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di n. 1 scooter colindrata 150 per S.C. Igiene e SanitÃ  Pubblica</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>BNLLSN67T16I138F</codiceFiscale>
+                    <ragioneSociale>CASA DELLA MOTO DI BINELLO ALESSANDRO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3442.62</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+                <dataUltimazione>2024-04-22</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z603E058D1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di n. 1 automezzo Dacia - Nuovo Duster</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01274170057</codiceFiscale>
+                    <ragioneSociale>ERREBI SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19762.67</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+                <dataUltimazione>2024-04-22</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z173DC1678</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Adesione gara regionale fornitura di strumentazione e reagenti per la ricerca del sangue occulto nelle feci Dasit - Adesione gara regionale fornitura di strumentazione e reagenti per la ricerca del sangue occulto nelle feci Dasit</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03222390159</codiceFiscale>
+                    <ragioneSociale>DASIT S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>30701.12</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>zd73defa82</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>acquisto pezzi di ricambio utilizati durante la manutenzione ordinaria dei containers a marchio Martin presenti nelle sale operatorie dei presidi ospedalieri di imperia, sanremo e bordighera - acquisto pezzi di ricambio utilizati durante la manuten</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02439400108</codiceFiscale>
+                    <ragioneSociale>RICORDINI PIETRO di Ricordini Mauro &amp; C. s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19604.25</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6C3C1EC44</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>TANCA DONATELLA - DOCENZA CORSO III</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>TNCDTL51H60D969T</codiceFiscale>
+                    <ragioneSociale>TANCA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4123.60</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+                <dataUltimazione>2024-01-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4123.60</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA13DED662</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00089700082</codiceFiscaleProp>
+                <denominazione>Comune di Imperia</denominazione>
+            </strutturaProponente>
+            <oggetto>Determinazione a contrattare e assunzione impegno di spesa per assistenza legale in giudizio a tutela del Comune di Imperia per resistenza nell' appello davanti al Tribunale di Imperia avverso sentenza del Giudice di Pace di Imperia (rif. prot. 779</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>PLNMGR79T47I138N</codiceFiscale>
+                    <ragioneSociale>PULINA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>791.75</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-04</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A0410D197C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80007350103</codiceFiscaleProp>
+                <denominazione>CittÃ  Metropolitana di Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>ID.2023_165 PNRR M.2C.1.1I.1.1 - LINEA D'INTERVENTO A, FINANZIATO DALL'UNIONE EUROPEA - NEXTGENERATIONEU. ACQUISTO DI SOFTWARE E HARDWARE PER MIGLIORARE L'ACCESSO E LA GESTIONE CENTRO DI RACCOLTA E MERCATO DEL RIUSO - COMUNE DI SESTRI LEVANTE. CUP </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03380500177</codiceFiscale>
+                    <ragioneSociale>ASE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-17</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A0404CBD6F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA IN NOLEGGIO DI DATALOGGER PER IL MONITORAGGIO DELLA TEMPERATURA DELLE UNITÃ DI SANGUE ED EMOCOMPONENTI AD USO TRASFUSIONALE</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03524050238</codiceFiscale>
+                    <ragioneSociale>FRESENIUS KABI ITALIA SRL </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>43096.41</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB63DD0666</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00332440098</codiceFiscaleProp>
+                <denominazione>Comune di Pietra Ligure</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO ED IMPEGNO DI SPESA PER L'INTEGRAZIONE DEL SOFTWARE CONCILIA CON L'APP IO ALLA SOCIETA' C&amp;C SISTEMI, CON SEDE LEGALE AD IMPERIA - AFFIDAMENTO ED IMPEGNO DI SPESA PER L'INTEGRAZIONE DEL SOFTWARE CONCILIA CON L'APP IO ALLA SOCIETA' C&amp;C SI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00977740083</codiceFiscale>
+                    <ragioneSociale>C&amp;C SISTEMI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB83D38760</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di consulenza economico finanziaria relativa alla analisi del piano economico finanziario predisposto dal soggetto affidatario della concessione per la progettazione, costruzione e gestione del nuovo ospedale della Spezia in localitÃ  Fele</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04662680158</codiceFiscale>
+                    <ragioneSociale>KPMG Advisory Spa</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01927190999</codiceFiscale>
+                    <ragioneSociale>RINA CHECK S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>39000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-19</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF53E026C6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto PC ad uso CDA IRE 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>14197361000</codiceFiscale>
+                    <ragioneSociale>GRUPPO GALAGANT SRLS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>638.80</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-01-11</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>638.80</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA93E026E1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto materiale informatico e PC ad uso CDA IRE 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04179660248</codiceFiscale>
+                    <ragioneSociale>FRANGI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>765.91</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-01-11</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>765.91</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z853E07761</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizi di connettivitÃ  internet per IRE</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>12878470157</codiceFiscale>
+                    <ragioneSociale>Fastweb S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>22581.72</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-15</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC53E02695</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura biglietti da visita nuovo CDA IRE 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02030620997</codiceFiscale>
+                    <ragioneSociale>ARTE DISEGNO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>128.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-01-03</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>128.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEE3E027D4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto Notebook per AD ProBook 440 G8</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02758500108</codiceFiscale>
+                    <ragioneSociale>Mantero Sistemi srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>607.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+                <dataUltimazione>2024-01-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>607.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7B3E0273A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02264880994</codiceFiscaleProp>
+                <denominazione>Infrastrutture Recupero Energia Agenzia RegionaleLigure - I.R.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>Smaltimento carta da macero +RAEE da uffici IRE Via XX Settembre 41</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02689670103</codiceFiscale>
+                    <ragioneSociale>COOP. SOC. IL RASTRELLO A RL ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>673.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A03A766B1B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80007350103</codiceFiscaleProp>
+                <denominazione>CittÃ  Metropolitana di Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>ID.2023_149 PNRR M.2C.1.1I.1.1 - LINEA D'INTERVENTO A, FINANZIATO DALL'UNIONE EUROPEA - NEXTGENERATIONEU. SUPPORTO TECNICO AL PASSAGGIO DA APPLICAZIONE TARIFFARIA MONOMIA A BINOMIA E ALL'ATTIVITÃ DI PREDISPOSIZIONE DEL PEF GREZZO E DEL PIANO TARIF</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00977740083</codiceFiscale>
+                    <ragioneSociale>C&amp;C SISTEMI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>24590.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-09</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04A7FEA8F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>95054110101</codiceFiscaleProp>
+                <denominazione>Agenzia regionale di promozione Turistica In Liguria</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento evento campagna promozionale #pesto: masterpiece of Liguria - Sestriere e Sanremo</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01934180835</codiceFiscale>
+                    <ragioneSociale>DHS SOLUTIONS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>132968.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-17</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A023EBB928</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>VIDEOBRONCOSCOPI MONOUSO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>11160660152</codiceFiscale>
+                    <ragioneSociale>AMBU</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>91080.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-26</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A01ADEB860</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03399650104</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 3 Genovese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornutura arredi e complementi da ufficio 2023-24</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01932200684</codiceFiscale>
+                    <ragioneSociale>OFFICINA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>74830.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-13</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A03C5E44D4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03399650104</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 3 Genovese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura farmaco SKYRIZI penna preriempita SC 150 mg 1 ml</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02645920592</codiceFiscale>
+                    <ragioneSociale>ABBVIE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1072257.60</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A03C5F2063</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03399650104</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 3 Genovese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura farmaco ADTRALZA sir. sc 150 mg 1 ml</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>11271521004</codiceFiscale>
+                    <ragioneSociale>LEO PHARMA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>94848.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-02</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04129F6BE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03399650104</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 3 Genovese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura farmaco VABYSMO soluzione iniettabile intra-vitreale Farmaceutica Ospedaliera</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00747170157</codiceFiscale>
+                    <ragioneSociale>ROCHE  </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>207888.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A0463540BF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00123420119</codiceFiscaleProp>
+                <denominazione>Azienda Regionale Territoriale per l'Edilizia della Spezia</denominazione>
+            </strutturaProponente>
+            <oggetto>LAVORI DI MANUTENZIONE ORDINARIA E STRAORDINARIA AVENTI CARATTERE DI INDIFFERIBILITA' E URGENZA E SERVIZI AI FABBRICATI DI PROPRIETA' ED IN GESTIONE DELL'A.R.T.E. LA SPEZIA  SITI NEI COMUNI DELLA VAL DI MAGRA, VAL DI VARA E RIVIERA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01407480456</codiceFiscale>
+                    <ragioneSociale>POSA IN SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>146401.32</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-30</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB03E01332</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO N 3 CARRELLINI SINGOLI PORTABIANCHERIA CON RUOTE E CON COPERCHIO ROSSO PER LA FISIATRIA DELL'OSPEDALE DI IMPERIA - ACQUISTO N 3 CARRELLINI SINGOLI PORTABIANCHERIA CON RUOTE E CON COPERCHIO ROSSO PER LA FISIATRIA DELL'OSPEDALE DI IMPERIA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02962870214</codiceFiscale>
+                    <ragioneSociale>FRANCEHOPITAL SpAS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>522.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-31</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z253DE3D58</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di diagnostici per parotite, da utilizzarsi presso la S.C. Laboratorio analisi - Fornitura annuale di diagnostici per parotite, da utilizzarsi presso la S.C. Laboratorio analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02749260028</codiceFiscale>
+                    <ragioneSociale>DIASORIN ITALIA S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-30</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A038BC2BCE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00856930102</codiceFiscaleProp>
+                <denominazione>Comune di Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>Recupero e riqualificazione di fronte di cava inattivo presso Monte Gazzo a Sestri</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01497510998</codiceFiscale>
+                    <ragioneSociale>ECOFOND SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>103988.17</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE13DC4EE0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di reagenti e prodotti per laboratorio, da utilizzarsi presso la S.S.D. U.O. a direzione universitaria Igiene ospedaliera - Fornitura annuale di reagenti e prodotti per laboratorio, da utilizzarsi presso la S.S.D. U.O. a direzione</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>13209130155</codiceFiscale>
+                    <ragioneSociale>MERCK LIFE SCIENCE s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1862.20</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-30</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z713DE3951</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale del prodotto Mycoprosafe, da utilizzarsi presso la S.C. Laboratorio analisi - Fornitura annuale del prodotto Mycoprosafe, da utilizzarsi presso la S.C. Laboratorio analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01489790996</codiceFiscale>
+                    <ragioneSociale>Relab</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2970.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z383DE3A9F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di controlli Veq, da utilizzarsi presso la S.C. Laboratorio analisi - Fornitura annuale di controlli Veq, da utilizzarsi presso la S.C. Laboratorio analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02899440107</codiceFiscale>
+                    <ragioneSociale>Codex </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4650.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6A3DE3C55</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale del prodotto RPR Reditest, da utilizzarsi presso la S.C. Laboratorio analisi - Fornitura annuale del prodotto RPR Reditest, da utilizzarsi presso la S.C. Laboratorio analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00941660151</codiceFiscale>
+                    <ragioneSociale>DID DIAGNOSTIC INTERNATIONAL DISTRIBUTION</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2320.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8A3DE3E18</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di diagnostici ACE, da utilizzarsi presso la S.C. Laboratorio analisi - Fornitura annuale di diagnostici ACE, da utilizzarsi presso la S.C. Laboratorio analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03222390159</codiceFiscale>
+                    <ragioneSociale>DASIT S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2428.20</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z283CB023D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00311260095</codiceFiscaleProp>
+                <denominazione>Provincia di Savona</denominazione>
+            </strutturaProponente>
+            <oggetto>abbonamento anno 2023 - 2024 a LA STAMPA ON LINE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06979891006</codiceFiscale>
+                    <ragioneSociale>GEDI DIGITAL SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>240.38</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-22</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z073CE32E6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura biennale del materiale di consumo -S.C. anatomia Patologica - Lotto contenitori - Ditta Kaltek - Fornitura biennale del materiale di consumo -S.C. anatomia Patologica - Lotto contenitori - Ditta Kaltek</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02405040284</codiceFiscale>
+                    <ragioneSociale>KALTEK s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5806.40</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+                <dataUltimazione>2025-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z963CE3334</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura biennale del materiale di consumo -S.C. Anatomia Patologica - Lotto carta e vassoi - Ditta Kaltek - Fornitura biennale del materiale di consumo -S.C. Anatomia Patologica - Lotto carta e vassoi - Ditta Laboindustria</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00805390283</codiceFiscale>
+                    <ragioneSociale>Laboindustria</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2233.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-03</dataInizio>
+                <dataUltimazione>2025-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z973CE3379</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura biennale del materiale di consumo -S.C. Anatomia Patologica - Lotto Materiale Vario - Ditta Kaltek - Fornitura biennale del materiale di consumo -S.C. anatomia Patologica - Lotto contenitori - Ditta Kaltek</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02405040284</codiceFiscale>
+                    <ragioneSociale>KALTEK s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>670.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+                <dataUltimazione>2025-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC33E05A02</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di frigoriferi portatili - Programma "Salute, ambiente, biodiversitÃ  e clima" - Lotto 1</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06978581004</codiceFiscale>
+                    <ragioneSociale>ELETTROSERVIZI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>670.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+                <dataUltimazione>2024-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z853DB6733</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di frigoriferi portatili - Programma "Salute, ambiente, biodiversitÃ  e clima" - Lotto 2</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01681930085</codiceFiscale>
+                    <ragioneSociale>DE MARTINI REFRIGERAZIONE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3403.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-29</dataInizio>
+                <dataUltimazione>2024-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z143DC07EF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di attrezzatura varia per la S.C. Igiene degli alimenti diorigine animale e S.S.D. Igiene degli alimenti e delle produzioni zootecniche - Programma "Salute, ambiente, biodiversitÃ  e clima" - Lotto 1</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01749330047</codiceFiscale>
+                    <ragioneSociale>SELEFAR s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5400.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-31</dataInizio>
+                <dataUltimazione>2024-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z993DC0A72</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di attrezzatura varia per la S.C. Igiene degli alimenti diorigine animale e S.S.D. Igiene degli alimenti e delle produzioni zootecniche - Programma "Salute, ambiente, biodiversitÃ  e clima" - Lotto 2</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00876320409</codiceFiscale>
+                    <ragioneSociale>Unieuro S.p.a.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>682.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-31</dataInizio>
+                <dataUltimazione>2024-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9B3D7755D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>FPA SRL - AGG.OBBLIGATORIO CUNEO fEDERICO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>10693191008</codiceFiscale>
+                    <ragioneSociale>FPA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>250.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-05</dataInizio>
+                <dataUltimazione>2024-01-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>250.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z893D83C73</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>SOI SPA - AGG.OBBLIGATORIO SALERNO GUIA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02774280016</codiceFiscale>
+                    <ragioneSociale>S.O.I. SOCIETA' ORGANIZZAZIONE INDUSTRIALE S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>590.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-05</dataInizio>
+                <dataUltimazione>2024-01-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>590.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB73DE8BEA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento diretto ai sensi dell'art. 50 co. 1 lett. b) D.Lgs n. 36/2023 del servizio di assistenza tecnica hardware e software per i sistemi eliminacode mod. Gesco per l'anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02958520542</codiceFiscale>
+                    <ragioneSociale>CIEMME GESCO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9984.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-31</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A02452C9F4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00211160114</codiceFiscaleProp>
+                <denominazione>Comune della Spezia</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI ABBIGLIAMENTO PER GLI ADDETTI AI COMPITI DI POLIZIA LOCALE DELLA CITTA? DELLA SPEZIA - FORNITURA ABBIGLIAMENTO PER GLI ADDETTI AI COMPITI DI POLIZIA LOCALE DELLA CITTA' DELLA SPEZIA</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06028620489</codiceFiscale>
+                    <ragioneSociale>WESTAR SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>59193.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-22</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEF3CC6AC3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>VILLAGGIO DEL RAGAZZO - CATERING 6 OTTOBRE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00893280107</codiceFiscale>
+                    <ragioneSociale>OPERA DIOCESANA MADONNA DEI BAMBINI-VILLAGGIO DEL RAGAZZO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>780.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-05</dataInizio>
+                <dataUltimazione>2024-01-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>780.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z753D260D3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>CORTIS LENTINI SRL - AGG.OBBLIGATORIO RAFFO PAOLO</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01737070167</codiceFiscale>
+                    <ragioneSociale> CORTIS LENTINI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>600.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+                <dataUltimazione>2024-01-12</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>600.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z693D2666A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>VILLAGGIO DEL RAGAZZO - APERTURA PORTINERIA MAGGIO-GIUGNO 2023</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00893280107</codiceFiscale>
+                    <ragioneSociale>OPERA DIOCESANA MADONNA DEI BAMBINI-VILLAGGIO DEL RAGAZZO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>455.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-05</dataInizio>
+                <dataUltimazione>2024-01-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>455.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCD3D4D388</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>VILLAGGIO DEL RAGAZZO - APERTURA PORTINERIA SETTEMBRE-OTTOBRE 2023</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00893280107</codiceFiscale>
+                    <ragioneSociale>OPERA DIOCESANA MADONNA DEI BAMBINI-VILLAGGIO DEL RAGAZZO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1102.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-05</dataInizio>
+                <dataUltimazione>2024-01-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1102.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2E3D55D15</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>UNIONE PROVINCIALE ENTI LOCALI - AGG.OBBL. A. CONTI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>80009680127</codiceFiscale>
+                    <ragioneSociale>Unione Provinciale Enti Locali</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>80009680127</codiceFiscale>
+                    <ragioneSociale>Unione Provinciale Enti Locali</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>80009680127</codiceFiscale>
+                    <ragioneSociale>Unione Provinciale Enti Locali</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>80009680127</codiceFiscale>
+                    <ragioneSociale>Unione Provinciale Enti Locali</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>25.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+                <dataUltimazione>2024-01-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>25.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4C3D4DBE7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>PUBBLIFORMEZ - AGG. OBBLIGATORIO FERRARI DANIELA,CAVALLI JENNIFER JESSICA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03635090875</codiceFiscale>
+                    <ragioneSociale>PUBBLIFORMEZ</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+                <dataUltimazione>2024-01-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z643D5116F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>MK KNEZEVICH - OCULISTICA 20 OTTOBRE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02711210100</codiceFiscale>
+                    <ragioneSociale>M.K. KNEZEVICH SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>450.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-05</dataInizio>
+                <dataUltimazione>2024-01-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>450.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5B3D6B597</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>AVV.MASSARI - DOCENZA CORSO APPALTI 2024</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>MSSLSN67S10H294U</codiceFiscale>
+                    <ragioneSociale>MASSARI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2080.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-25</dataInizio>
+                <dataUltimazione>2024-01-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2080.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDB3CC6F2D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01038700991</codiceFiscaleProp>
+                <denominazione>Azienda Sociosanitaria Locale n. 4</denominazione>
+            </strutturaProponente>
+            <oggetto>D'ABROSCA - DOCENZA CORSO RIAB. RESPIRATORIA 5-6-7 OTTOBRE 23</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>DBRFNC76H11F952Q</codiceFiscale>
+                    <ragioneSociale>D'ABROSCA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1102.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-08</dataInizio>
+                <dataUltimazione>2024-01-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1102.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4E3DF93CB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di reagenti, per la S.C. Laboratorio Analisi - Fornitura annuale di reagenti, per la S.C. Laboratorio Analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>10181220152</codiceFiscale>
+                    <ragioneSociale>ROCHE DIAGNOSTICS S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>12985.60</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5F3DF9860</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di kit diagnostici, per la S.C. Laboratorio Analisi - Fornitura annuale di kit diagnostici, per la S.C. Laboratorio Analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>10181220152</codiceFiscale>
+                    <ragioneSociale>ROCHE DIAGNOSTICS S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5857.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA93DFD776</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura in esclusiva di reagenti per anti-mycoplasma IgM, per la S.C. Laboratorio Analisi - Fornitura in esclusiva di reagenti per anti-mycoplasma IgM, per la S.C. Laboratorio Analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02749260028</codiceFiscale>
+                    <ragioneSociale>DIASORIN ITALIA S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>13200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-24</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD83DF59E2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura annuale di kit diagnostici, da utilizzarsi presso la S.C. Laboratorio analisi - Fornitura annuale di kit diagnostici, da utilizzarsi presso la S.C. Laboratorio analisi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00889160156</codiceFiscale>
+                    <ragioneSociale>THERMO FISHER SCIENTIFIC S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7728.37</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A03A8139DF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>92085010095</codiceFiscaleProp>
+                <denominazione>Fondazione CIMA</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di arredi per una sala situazioni in Dodoma, Tanzania ed una sala situazioni in Douala, Cameroon, Progetto UNDRR-AUC III 'Programme for a continental coordination, early warning and action system in Africa - Phase 3'</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <identificativoFiscaleEstero>ESA598777076</identificativoFiscaleEstero>
+                    <ragioneSociale>GESAB SAU</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>79746.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-31</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7974.68</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04C71C850</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02060250996</codiceFiscaleProp>
+                <denominazione>IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la ricerca sul canc</denominazione>
+            </strutturaProponente>
+            <oggetto>fornitura di materiale di consumo per casco stereostassico</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02723670960</codiceFiscale>
+                    <ragioneSociale>ELEKTA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>65121.80</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A041433423</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>PIANO DI POTENZIAMENTO DELLA RETE OSPEDALIERA PER EMERGENZA COVID 19 - AMPLIAMENTO PRONTO SOCCORSO OSPEDALE SAN PAOLO DI SAVONA - ATTIVITA' DI DIRETTORE LAVORI STRUTTURE E COORDINATORE SICUREZZA IN FASE DI ESECUZIONE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00829170091</codiceFiscale>
+                    <ragioneSociale>Studio di ingegneria Calvo Delfino e Associati</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>40000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-18</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A01D4F0B8E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI MATERIALE DI CONSUMO PER MONITOR MULTIPARAMETRICI DATEX</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03254580107</codiceFiscale>
+                    <ragioneSociale>A.S.E.M. s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>109938.75</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04129D518</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02994540108</codiceFiscaleProp>
+                <denominazione>Liguria Digitale SpA</denominazione>
+            </strutturaProponente>
+            <oggetto>Accordo Quadro Liguria Digitale Spa - P Studio Srl 2024</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06601340588</codiceFiscale>
+                    <ragioneSociale>P STUDIO ITALIA SRL </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>138742.56</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-06</dataInizio>
+                <dataUltimazione>2024-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04410C68E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00088020086</codiceFiscaleProp>
+                <denominazione>Comune di San Bartolomeo al Mare</denominazione>
+            </strutturaProponente>
+            <oggetto>CÃ  de Simoni - Lavori di manutenzione straordinaria di via C? de Simoni</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00189620099</codiceFiscale>
+                    <ragioneSociale>ICOSE S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>53744.42</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04415A6EC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00088020086</codiceFiscaleProp>
+                <denominazione>Comune di San Bartolomeo al Mare</denominazione>
+            </strutturaProponente>
+            <oggetto>Via Fornace - Lavori di riqualificazione di via Fornace</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00948900089</codiceFiscale>
+                    <ragioneSociale>MASALA  S.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>49209.46</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-24</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04C7141B8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02060250996</codiceFiscaleProp>
+                <denominazione>IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la ricerca sul canc</denominazione>
+            </strutturaProponente>
+            <oggetto>fornitura di materiale di consumo dedicato al sistema liquoguard 7</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09284460962</codiceFiscale>
+                    <ragioneSociale>Integra Lifesciences Italy Srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>156000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04D0CF959</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02060250996</codiceFiscaleProp>
+                <denominazione>IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la ricerca sul canc</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI SOLUZIONE OFTALMICA IPOTOMICA CONTENENTE RIBOFLAVINA 0,1% 'RICROLIN', MATERIALE ESCLUSIVO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00204260285</codiceFiscale>
+                    <ragioneSociale>FIDIA FARMACEUTICI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>41666.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z533DF9CFC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00088020086</codiceFiscaleProp>
+                <denominazione>Comune di San Bartolomeo al Mare</denominazione>
+            </strutturaProponente>
+            <oggetto>Lavori di ripascimento stagionale delle spiagge libere comunali</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01846330098</codiceFiscale>
+                    <ragioneSociale>AM SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>25197.08</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA03CAF18F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di n. 20 personal computer e relativi monitor - FORNITURA DI N. 2O PC E RELATIVI MONITOR</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01172470997</codiceFiscale>
+                    <ragioneSociale>Welcome Web s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11140.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04C70CB1B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02060250996</codiceFiscaleProp>
+                <denominazione>IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la ricerca sul canc</denominazione>
+            </strutturaProponente>
+            <oggetto>fornitura di materiale di consumo dedicato ai ventilatori polmonari Galileo Hamilton</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02737030151</codiceFiscale>
+                    <ragioneSociale>BURKE &amp; BURKE S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>212258.40</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A044210D1B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00088020086</codiceFiscaleProp>
+                <denominazione>Comune di San Bartolomeo al Mare</denominazione>
+            </strutturaProponente>
+            <oggetto>Palazzo comunale - Lavori di manutenzione straordinaria delle facciate del palazzo comunale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CKJRLA84M04Z100D</codiceFiscale>
+                    <ragioneSociale>CUKAJ AUREL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>73840.18</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-09</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A03B53A46A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00616030102</codiceFiscaleProp>
+                <denominazione>FI.L.S.E. S.p.A.</denominazione>
+            </strutturaProponente>
+            <oggetto>incarico di servizi di amministrazione ordinaria del payroll - incarico di servizi di amministrazione ordinaria del payroll</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09779050963</codiceFiscale>
+                    <ragioneSociale>PKF - TCL SERVICES</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>09779050963</codiceFiscale>
+                    <ragioneSociale>PKF - TCL SERVICES</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>100000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-01</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6B3D54553</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00247260086</codiceFiscaleProp>
+                <denominazione>Provincia di Imperia</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio riguardante le indagini geognostiche a supporto della redazione degli elaborati progettuali e di calcolo (indagini geofisiche), la redazione della relazione geologica e la sorveglianza geologica relativamente a S.P. 97 delle Salse. Lavori </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>BLMLLL52H14C657G</codiceFiscale>
+                    <ragioneSociale>BELMONTE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3900.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-06</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE83DB2E8B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00247260086</codiceFiscaleProp>
+                <denominazione>Provincia di Imperia</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio riguardante l'incarico di coordinatore per la sicurezza in fase di progettazione ed esecuzione relativamente a:Lavori di manutenzione straordinaria SS.PP. della Bassa Valle Arroscia - Anno 2024</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>GCCMHL72C25E290Q</codiceFiscale>
+                    <ragioneSociale>Giaccheri</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1618.12</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-06</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A036C7DDDE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03783930104</codiceFiscaleProp>
+                <denominazione>Azienda MobilitÃ  e Trasporti S.p.A. - Genova</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA SEMESTRALE DI RICAMBI ORIGINALI O EQUIVALENTI CATALOGO IIA - FORNITURA SEMESTRALE DI RICAMBI ORIGINALI O EQUIVALENTI CATALOGO IIA (AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 COMMA 1 LETTERA B DEL D. LGS. 36/2023)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01114950510</codiceFiscale>
+                    <ragioneSociale>PROSPERIBUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>139500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A01580774E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01062990096</codiceFiscaleProp>
+                <denominazione>ASL2 - AZIENDA SOCIOSANITARIA LIGURE</denominazione>
+            </strutturaProponente>
+            <oggetto>LAVORI STRAORDINARI DI ADEGUAMENTO IMPIANTISTICO E DI MANUTENZIONE DEGLI IMPIANTI ELEVATORI  INSTALLATI NEI PRESIDI DELL'A.S.L.2. ANNI 2024/2025 (DAL 01/01/2024 AL 31/12/2025) - LAVORI STRAORDINARI DI ADEGUAMENTO IMPIANTISTICO E DI MANUTENZIONE DEG</oggetto>
+            <sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01729590032</codiceFiscale>
+                    <ragioneSociale>OTIS SERVIZI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>530043.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-24</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z543dd7c1d</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>aghi in cromobalto - aghi in cromobalto</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>11206730159</codiceFiscale>
+                    <ragioneSociale>BOSTON SCIENTIFIC SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>16100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z213d92f07</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>impianti regeneten - impianti regeneten</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09331210154</codiceFiscale>
+                    <ragioneSociale>Smith &amp; Nephew</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z193DE18C6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01367680996</codiceFiscaleProp>
+                <denominazione>SocietÃ  per Cornigliano SpA</denominazione>
+            </strutturaProponente>
+            <oggetto>Sostituzione manto erba sintetica campo calcio area ex Dufour - Sostituzione manto erba sintetica campo calcio area ex Dufour</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03506350044</codiceFiscale>
+                    <ragioneSociale>COSTRUZIONE IMPIANTI SPORTIVI PAROLA GEOM MARIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>22000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-14</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04F88F6DA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03399650104</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 3 Genovese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura fotocopiatrici a noleggio - Ordine 7663349</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02298700010</codiceFiscale>
+                    <ragioneSociale>OLIVETTI  SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-14</dataInizio>
+                <dataUltimazione>2029-02-14</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A04F8B6709</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>03399650104</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 3 Genovese</denominazione>
+            </strutturaProponente>
+            <oggetto>Ordine  7666993  fotocopiatrici - Consip 2 lotto 2</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>11723840150</codiceFiscale>
+                    <ragioneSociale>CANON ITALIA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-14</dataInizio>
+                <dataUltimazione>2029-02-14</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB03E06D66</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>95035750108</codiceFiscaleProp>
+                <denominazione>Consiglio regionale - Assemblea Legislativa della Liguria</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio straordinario di resocontazione integrale delle sedutre del Consiglio regionale - Servizio straordinario di resocontazione delle sedute consiliari</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03147140366</codiceFiscale>
+                    <ragioneSociale>Stenotype Emilia Srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1554.75</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-21</dataInizio>
+                <dataUltimazione>2023-11-22</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1554.75</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A039A228A4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>92085010095</codiceFiscaleProp>
+                <denominazione>Fondazione CIMA</denominazione>
+            </strutturaProponente>
+            <oggetto>servizio di noleggio per 5 anni di n. 2 stampanti Multifunzione</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>BNCNMR54R66G583Q</codiceFiscale>
+                    <ragioneSociale>OFFICE LINE GERVASONI DI BIANCHI ANNA MARIA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>43800.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-02</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>0000000000</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00175270099</codiceFiscaleProp>
+                <denominazione>Comune di Savona</denominazione>
+            </strutturaProponente>
+            <oggetto>ONERI GESTIONE POS ANNI 2024-2025 - ONERI GESTIONE POS ANNI 2024-2025</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04107060966</codiceFiscale>
+                    <ragioneSociale>CARTASI </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4918.03</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-01</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z083DFE3F4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>95035750108</codiceFiscaleProp>
+                <denominazione>Consiglio regionale - Assemblea Legislativa della Liguria</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di trasporto - Servizio di trasporto Milano Malpensa-Genova per relatore seduta solenne</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01567750094</codiceFiscale>
+                    <ragioneSociale>BLUERENTAL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>315.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-23</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>275.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z883DDBC22</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00127020089</codiceFiscaleProp>
+                <denominazione>AZIENDA REGIONALE TERRITORIALE PER L'EDILIZIA DELLA PROVINCIA DI IMPERIA</denominazione>
+            </strutturaProponente>
+            <oggetto>CIG Z883DDBC22 - Intervento di manutenzione straordinarie per ristrutturazione e rifacimento sotto balcone dell'alloggio di ERP in Imperia, Via Jvanoe Amoretti n. 20 int. 5 alla ditta EDIL MASINO DI G. E R. DAMASCO SNC - Viale  Matteotti,17 - 18100</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01393240088</codiceFiscale>
+                    <ragioneSociale>EDIL MASINO DI GIUSEPPE E ROBERTO DAMASCO S.N.C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-24</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0F3DFCA63</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00211160114</codiceFiscaleProp>
+                <denominazione>Comune della Spezia</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO INCARICO DIREZIONE
+LAVORI STRUTTURALE E C.S.E. PROGETTO LAVORI REALIZ. IMPIANTO ILLUMINAZIONE
+CAMPO SPORTIVO MONTAGNA -</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatarioRaggruppamento>
+                    <membro>
+                        <codiceFiscale>01251830111</codiceFiscale>
+                        <ragioneSociale>STUDIO ASSOCIATO DI INGEGNERIA</ragioneSociale>
+                        <ruolo>02-MANDATARIA</ruolo>
+                    </membro>
+                    <membro>
+                        <codiceFiscale>VZZCRD71T27E463S</codiceFiscale>
+                        <ragioneSociale>VEZZI</ragioneSociale>
+                        <ruolo>01-MANDANTE</ruolo>
+                    </membro>
+                    <membro>
+                        <codiceFiscale>TNCVLR94B60M109J</codiceFiscale>
+                        <ragioneSociale>TONCINI</ragioneSociale>
+                        <ruolo>01-MANDANTE</ruolo>
+                    </membro>
+                </aggiudicatarioRaggruppamento>
+            </aggiudicatari>
+            <importoAggiudicazione>16202.15</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-17</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z183dd08ea</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>forbici laparoscopiche - forbici laparoscopiche</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06651950013</codiceFiscale>
+                    <ragioneSociale>PRO.MED</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1642.20</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z2f3dba457</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>introduttori non armati - introduttori non armati</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07123400157</codiceFiscale>
+                    <ragioneSociale>COOK ITALIA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z9e3dd7f64</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>schizzettone - schizzettone</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06111530637</codiceFiscale>
+                    <ragioneSociale>AIESI HOSPIATAL SERVICE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1380.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z0d3dd7e8c</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>aghi per alcolizzazione plesso celiaco - aghi per alcolizzazione plesso celiaco</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07123400157</codiceFiscale>
+                    <ragioneSociale>COOK ITALIA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-16</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF63D81146</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>cannule di guedel - cannule di guedel</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04709610150</codiceFiscale>
+                    <ragioneSociale>AIR LIQUIDE MEDICAL SYSTEMS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1960.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-01-30</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>z363db7439</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00557720109</codiceFiscaleProp>
+                <denominazione>Ente Ospedaliero "Ospedali Galliera"</denominazione>
+            </strutturaProponente>
+            <oggetto>sistema prelievo venoso - sistema prelievo venoso</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09508180966</codiceFiscale>
+                    <ragioneSociale>Greiner Bio-One Italia Srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4970.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-13</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A03FE8D6BB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01083060085</codiceFiscaleProp>
+                <denominazione>Azienda Sanitaria Locale n. 1 Imperiese</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura cistoscopi monouso - Fornitura cistoscopi monouso</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>11160660152</codiceFiscale>
+                    <ragioneSociale>AMBU</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>130000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2024-02-12</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+    </data>
+</ns2:pubblicazione>
