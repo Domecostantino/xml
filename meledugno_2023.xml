@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione
+	xmlns:legge190="legge190_1_0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+	<metadata>
+		<titolo>Pubblicazione 1 legge 190 - Estrazione dati on line - Anno 2023 - Lotti richiesti per estrazione 50 - totali registrati 511</titolo>
+		<abstract/>
+		<dataPubbicazioneDataset>2024-02-20</dataPubbicazioneDataset>
+		<entePubblicatore>COMUNE DI MELENDUGNO</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2024-02-20</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2023</annoRiferimento>
+		<urlFile>http://www.trasparenza.tinnservice.com:8010/traspamm/pratiche/80010060756/2/xml/?idsezione=215&amp;idannopubblicazione=2023&amp;rows=50&amp;page=1&amp;_search=</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>A04591D2C7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO SERVIZIO DI SUPPORTO AL RUP PER LA DURATA DI UN ANNO PER SERVIZIO OPERE PUBBLICHE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>21600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-29</dataInizio>
+				<dataUltimazione>2024-12-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z853E05801</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>BLUFESTIVAL 2023-D.G.C. N. 99/2023. IMPEGNO DI SPESA IN FAVORE DELL&amp;apos;ARTISTA SERGIO CONFORTI PER EVENTO &amp;#147;ROCA ANTICA CONVERSAZIONI&amp;#148;.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-29</dataInizio>
+				<dataUltimazione>2023-12-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z323DEFE14</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA IN FAVORE DI COSTANTINI SRL PER NOLEGGIO GRUPPO ELETTROGENO PER EVENTI BLUFESTIVAL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03684170750</codiceFiscale>
+					<ragioneSociale>COSTANTINI S.R.L.-NOLEGGIO GRU</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-29</dataInizio>
+				<dataUltimazione>2023-12-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEF3E02C05</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO LAVORI DI COMPLETAMENTO DELLA SISTEMAZIONE A VERDE DELLA PIAZZETTA COLLODI IN MELENDUGNO CON LA PIANTUMAZIONE DI SIEPI ED ESSENZE LOCALI E LA REALIZZAZIONE DI ALCUNI MURETTI A SECCO - CIG: ZEF3E02C05</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04458270750</codiceFiscale>
+					<ragioneSociale>AZIENDA  VIVAISTICA PUNTO VERDE SARL DE GIORGI ROBERTO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-29</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z293DE9D87</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI ARMATURE STRADALI A LED.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02165910734</codiceFiscale>
+					<ragioneSociale>WBS SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-28</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7900.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9B3E01466</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>SUPPORTO ALLA ELABORAZIONE ATTI E PREDISPOSIZIONE PROCEDURE RECUPERO COATTICO RUOLO CDS 2019</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2024-01-02</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z173DFC0C7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA E LIQUIDAZIONE FATTURA N.49/2023 IN FAVORE DELLA TIPOGRAFIA LA MELENDUGNESE PER FORNITURA MELENDUGNO CARD.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02160230757</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA &amp;quot;LA MELENDUGNESE&amp;quot;</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-28</dataInizio>
+				<dataUltimazione>2023-12-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>800.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5B3DFB99D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA E LIQUIDAZIONE FATTURA N.32/2023 IN FAVORE DELLA TIPOGRAFIA LA MELENDUGNESE PER MATERIALE GRAFICO REALTIVO AD EVENTI E ATTIVITÀ ISTITUZIONALI.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02160230757</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA &amp;quot;LA MELENDUGNESE&amp;quot;</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>644.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-28</dataInizio>
+				<dataUltimazione>2023-12-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>644.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z783DE8B9A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>INTERVENTI DI MESSA IN SICUREZZA E MANUTENZIONE STRAORDINARIA DI IMPIANTI COMUNALI DI PUBBLICA ILLUMINAZIONE, CON EVIDENTI TRACCE DI USURA, NEL TERRITORIO DEL COMUNE DI MELENDUGNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-28</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF83DE4531</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>INTERVENTI DI MANUTENZIONE STRAORDINARIA SU ALCUNI PALI DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI MELENDUGNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05297140757</codiceFiscale>
+					<ragioneSociale>EREDI DI MEO MAURIZIO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-28</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z433DE03BD</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>INTERVENTI DI MANUTENZIONE STRAORDINARIA SU ALCUNE LINEE GUASTE DEGLI IMPIANTI DI ILLUMINAZIONE PUBBLICA DEL COMUNE DI MELENDUGNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05297140757</codiceFiscale>
+					<ragioneSociale>EREDI DI MEO MAURIZIO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-28</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>A0440DDFC2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>DPCM 17 LUGLIO 2020 - INVESTIMENTI IN INFRASTRUTTURE SOCIALI. &amp;#147;PROGETTO ESECUTIVO DEGLI INTERVENTI DI COMPLETAMENTO DELLA MANUTENZIONE STRAORDINARIA DEL MERCATO COPERTO COMUNALE&amp;#148;. &amp;#150; CUP: J72F23000580001 - CIG:A0440DDFC2</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-27</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z6D3DF43E8</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA INTEGRATIVO PER FORNITURA TRANSENNE IN PLASTICA CON FASCIA B/R PERSONALIZZATA &amp;#147;POLIZIA LOCALE MELENDUGNO&amp;#148; ALLA  DITTA NUOVA FISE SRL DA GALATONE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-27</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z683DF3AB7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER FORNITURA DI SEGNALETICA DI PERCORSO ALTERNATIVO PROVVISORIO IN FAVORE DELLA DITTA SPOT SRL CON SEDE IN MELENDUGNO C.SO CAVOUR N. 32.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04252140753</codiceFiscale>
+					<ragioneSociale>SPOT S.R.L.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-27</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF83DF3859</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI STREAMING DELLE SEDUTE DEL CONSIGLIO COMUNALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-27</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z0C3DDF4EA</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE DELL&amp;#146;IMPIANTO DI ILLUMINAZIONE DELLA PALESTRA INTERNA DELL&amp;#146;ISTITUTO COMPRENSIVO  &amp;#147; RINA DURANTE&amp;#148; SITO IN VIA SAN GIOVANNI 1  AFFIDAMENTO ALLA DITTA TOMMASI SRL CIG: Z0C3DDF4EA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04633340759</codiceFiscale>
+					<ragioneSociale>TOMMASI S.R.L.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-21</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZE83DDE2C1</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSISTENZA INFORMATICA ALL&amp;apos;UFFICIO TECNICO COMUNALE &amp;#150; SERVIZIO OPERE PUBBLICHE - IN MATERIA DI LAVORI PUBBLICI, SERVIZI E FORNITURE DI SUPPORTO AL RESPONSABILE DEL SERVIZIO OPERE PUBBLICHE. AFFIDAMENTO E IMPEGNO DI SPESA. CIG: ZE83DDE2C1.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-20</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9F3DDCB28</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI DI MANUTENZIONE DI STRADE COMUNALI URBANE ED EXTRAURBANE AFFIDAMENTO ALLA DITTA EX CAVA DI MARCO D&amp;apos;ALBA CIG: Z9F3DDCB28</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04242500751</codiceFiscale>
+					<ragioneSociale>EXCAVA DI MARCO D&amp;apos;ALBA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-20</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB43D6F8B8</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LIQUIDAZIONE DI SPESA FATTURA N. 02/14 RELATIVE ALL&amp;#146;IMPEGNO DI SETTORE N. 149/2023 A FAVORE DELLA DITTA COLOPI VITO ANTONIO SRL PER LA FORNITURA DI ALIMENTI PER CANI E GATTI RANDAGI.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00484600754</codiceFiscale>
+					<ragioneSociale>COLOPI VITO ANTONIO SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00484600754</codiceFiscale>
+					<ragioneSociale>COLOPI VITO ANTONIO SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-20</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2303.55</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8A3DDCB61</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA ED ISTALLAZIONE DI DUE CONDIZIONATORI PRESSO GLI UFFICI COMUNALI IN BORGAGNE AFFIDAMENTO ALLA DITTA GMA IMPIANTI SRLS CIG: Z8A3DDCB61</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05100330751</codiceFiscale>
+					<ragioneSociale>GMA IMPIANTI SRLS</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-20</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1630.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB13DDCB1B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO LAVORI DI ORDINARIA MANUTENZIONE SEDE COMUNALE DI PIAZZA RISORGIMENTO A MELENDUGNO,  ALLA DITTA SCIURTI  ANTONIO-  CIG:  ZB13DDCB1B</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-20</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z883DDBE18</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>PROGETTO PER LA REALIZZAZIONE DI UN CENTRO COMUNALE PER LA RACCOLTA DIFFERENZIATA (CCR) DEI RIFIUTI SOLIDI URBANI ED ASSIMILATI IN LOCALITÀ TORRE SARACENA. CUP: J75I19000030006. AUTORIZZAZIONE E AFFIDAMENTO LAVORI DI SISTEMAZIONE FRONTE ESTERNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZC93DD746E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI DI FORNITURA E PAVIMENTAZIONE DEGLI SPAZI INTERNI ED ESTERNI DELLA CAPPELLA DEL BUON CONSIGLIO  A MELENDUGNO AFFIDAMENTO ALLA DITTA MARMI SUD DI CURLANTE GIOVANNI &amp;amp; RAHO SALVATORE S.N.C.  CIG:ZC93DD746E</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZC53DDAF29</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER LAVORI DI COMPLETAMENTO DI SEGNALETICA STRADALE ESEGUITI NELLE MARINE NEL COMUNE DI MELENDUGNO A FAVORE DELLA DITTA &amp;#147;VIVAI PETRACHI, GARDEN CENTER&amp;#148;.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO IN FAVORE DI ESPERA SOC.COOP PER USCITE PROMOZIONALI SULLA RIVISTA QUISALENTO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>1180.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione>2023-12-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZBA3DDA650</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER LAVORI DI TRACCIAMENTO ED ESECUZIONE DI SEGNALETICA STRADALE ORIZZONTALE E FORNITURA E POSA IN OPERA DI SEGNALETICA VERTICALE A FAVORE DELLA DITTA DE LUCA SALVATORE SRL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI GAS NATURALE PER LE UTENZE COMUNALI. CIG: 8332142D15. LIQUIDAZIONE FATTURE A HERA COMM SPA</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LIQUIDAZIONE FATTURE A EDISON ENERGIA SPA.</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LIQUIDAZIONE FATTURE AGSM ENERGIA SPA</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB63DD7240</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>D.G.C.62/2023. IMPEGNO E LIQUIDAZIONE IN FAVORE DELLA TIPOGRAFIA LA MELENDUGNESE PER TARGHE E PERGAMENE IN OCCASIONE DELL&amp;apos;EVENTO &amp;quot;ALFIERI DELLO SPORT&amp;quot;</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02160230757</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA &amp;quot;LA MELENDUGNESE&amp;quot;</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>635.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione>2023-12-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>635.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF73DC6E4C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>SPEDIZIONI PROCEDURE ESECUTIVE RISCOSSIONE TRIBUTI. INTEGRAZIONE CONTO SMA POSTE ITALIANE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA-ALT SUD 1-I NCASSI CONTI CREDIT</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-19</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB83DD1D7D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER MANIFESTI EVENTI NATALIZI IN FAVORE DELLA TIPOGRAFIA LA MELENDUGNESE.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02160230757</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA &amp;quot;LA MELENDUGNESE&amp;quot;</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>830.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-18</dataInizio>
+				<dataUltimazione>2023-12-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9F3DCFB4C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI PER IL &amp;#147;PROGETTO DI RESTAURO VEGETAZIONALE E SGOMBERO DELLA NECROMASSA PER LA RIDUZIONE DEL RISCHIO, LA PREVENZIONE DAGLI INCENDI BOSCHIVI E IL RIPRISTINO DELLA FRUIBILITA&amp;#146; DEL PARCO DENOMINATO SENTINELLE&amp;#148;</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03836310759</codiceFiscale>
+					<ragioneSociale>MUSCATELLO SERVIZI SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-18</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z203DCFB62</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>MANIFESTI E MATERIALE DIVULGATIVO PER GIOVANI ABILMENTE IN GIOCO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02160230757</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA &amp;quot;LA MELENDUGNESE&amp;quot;</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>120.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-11-28</dataInizio>
+				<dataUltimazione>2023-12-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>120.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB13DCFA44</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO MEDICINA E IGIENE E SICUREZZA SUL LAVORO D.LGS. N. 81-2008</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04560040752</codiceFiscale>
+					<ragioneSociale>MA.VI. SRL A CAPITALE RIDOTTO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>5600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-17</dataInizio>
+				<dataUltimazione>2025-12-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z0D3DCF73E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO INTEGRATIVO E LIQUIDAZIONE FATT. N. 231/001 DITTA PUNTO COPIATORI PER NOLO FOTOCOPIATRICE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-16</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z263DCB472</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER ACQUISTO CONFEZIONI DI PANETTONI IN FAVORE DEI CONCITTADINI ULTRANOVANTENNI IN FAVORE DI NEW FOOD SRLS</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>800.67</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-15</dataInizio>
+				<dataUltimazione>2023-12-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3E3DCCA9A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO FORNITURA DI SEGNALETICA DI TOPONOMASTICA  ALLA  DITTA LAZZARI SRL DA MAGLIE (LE).  CIG Z3E3DCCA9A</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04215390750</codiceFiscale>
+					<ragioneSociale>LAZZARI S.R.L.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-15</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8E3DC9C83</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER FORNITURA LIBRI DI TESTO ALUNNI SCUOLA PRIMARIA FREQUENTANTI PLESSO DI ALTRO COMUNE, IN FAVORE DELLA LIBRERIA CASA DEL LIBRO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03348850755</codiceFiscale>
+					<ragioneSociale>CASA DEL LIBRO DI CARROZZO  &amp;amp; C. S.A.S.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>135.98</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-15</dataInizio>
+				<dataUltimazione>2023-12-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>135.98</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZCF3DC7FF3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER CARTELLONISTICA INFORMATIVA SPOT SRL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04252140753</codiceFiscale>
+					<ragioneSociale>SPOT S.R.L.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>580.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-14</dataInizio>
+				<dataUltimazione>2023-12-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>707.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZE53DC53E0</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO IN FAVORE DI ESPERA SOC.COOP PER USCITE PROMOZIONALI SULLA RIVISTA QUISALENTO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04916170758</codiceFiscale>
+					<ragioneSociale>Espera Sooc. Coop.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04916170758</codiceFiscale>
+					<ragioneSociale>Espera Sooc. Coop.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1180.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-14</dataInizio>
+				<dataUltimazione>2023-12-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1180.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3A3DC52E3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA A FAVORE DELLA DITTA PASSIONE IN MOTO SRL DI MELENDUGNO PER L&amp;#146;ACQUISTO DI N. 3 CASCHI PER I VELOCIPEDI D&amp;#146;ISTITUTO DI POLIZIA LOCALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05094720751</codiceFiscale>
+					<ragioneSociale>PASSIONE IN MOTO SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>219.41</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-14</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>179.84</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z0B3DBC1DB</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI DI SISTEMAZIONE DEL TERRENO DI GIOCO PRESSO IL CAMPO SPORTIVO IN ERBA IN MELENDUGNO IN VIA CAMPO SPORTIVO AFFIDAMENTO ALLA DITTA DITTA SALENTO VERDE SRL CIG: Z0B3DBC1DB</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-14</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI MANUTENZIONE ORDINARIA E STRAORDINARIA DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE COMUNALI PER LA DURATA DI UN ANNO&amp;#148; &amp;#150; CIG: 9763600999. LIQUIDAZIONE DELLA MENSILITÀ DI OTTOBRE 2023. DITTA: EREDI DI MEO MAURIZIO</oggetto>
+			<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05297140757</codiceFiscale>
+					<ragioneSociale>EREDI DI MEO MAURIZIO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05297140757</codiceFiscale>
+					<ragioneSociale>EREDI DI MEO MAURIZIO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-12</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7156.22</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7D3C836DB</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>IMPEGNO DI SPESA PER NOLEGGIO A LUNGO TERMINE SENZA CONDUCENTE DI N. 1 AUTOVEICOLO MODELLO JEEP COMPASS 1.3 T4 PHEV 190 CV BUSINESS PLUS 4XE AUTO PER LA DURATA DI 36 MESI CON 105.000 KM DI PERCORRENZA LEASYS S.P.A.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-11</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZE53DADC5B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO SERVIZIO DI DERATTIZZAZIONE E DISINFEZIONE ISTITUTO COMPRENSIVO RINA DURANTE SEDE DI MELENDUGNO VIA S. GIOVANNIE E ASILO NIDO VIA F.LLI LONGO AFFIDAMENTO ALLA DITTA SANITEC S.A.S. DI MAURIZIO SCHIPA &amp;amp; C. CIG: ZE53DADC5B</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale></codiceFiscale>
+					<ragioneSociale></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-11</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7E3DAD339</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZI MANUTENTIVI E DI PULIZIA CON SOGGETTI SVANTAGGIATI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04633160751</codiceFiscale>
+					<ragioneSociale>EG 186 ONLUS COOPERATIVA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>14750.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-10</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14750.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8E3D9900F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>RIFACIMENTO DI PORZIONI DI MARCIAPIEDE IN VIA LARGO S. ANTONIO A MELENDUGNO.AFFIDAMENTO DITTA SERINO GINO DI SERINO LUIGI. CIG: Z8E3D9900F</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05198840752</codiceFiscale>
+					<ragioneSociale>GINO SERINO COSTRUZIONI</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-05</dataInizio>
+				<dataUltimazione/>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4500.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>FESTIVAL &amp;#147;LA NOTTE DELLA TARANTA&amp;#148; &amp;#150; TAPPA DEL 10 AGOSTO 2023 IN SANT&amp;#146;ANDREA DI MELENDUGNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04382060756</codiceFiscale>
+					<ragioneSociale>FONDAZIONE NOTTE DELLA TARANTA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04382060756</codiceFiscale>
+					<ragioneSociale>FONDAZIONE NOTTE DELLA TARANTA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-12-05</dataInizio>
+				<dataUltimazione>2023-12-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA23D98D9B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80010060756</codiceFiscaleProp>
+				<denominazione>COMUNE DI MELENDUGNO</denominazione>
+			</strutturaProponente>
+			<oggetto>CONFERIMENTI RIFIUTI INDIFFERENZIATI PRESSO L&amp;apos;IMPIANTO MANDURIAMBIENTE SPA SU DISPOSIZIONE DI AGER PUGLIA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02863660359</codiceFiscale>
+					<ragioneSociale>MANDURIAMBIENTE SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari/>
+			<importoAggiudicazione>16251.29</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16251.29</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>
